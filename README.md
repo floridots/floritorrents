@@ -63,7 +63,7 @@ Jackett é um agregador que integra diversos indexadores de torrents, permitindo
 5. **Configure o Aplicativo Florimovies:**
    - No arquivo `florimovies.py`, localize as variáveis de configuração:
      ```python
-     self.jackett_api_key = "i17t71clvbcm7ap8sgldk3r37zko5cl1"
+     self.jackett_api_key = "API"
      self.jackett_host = "http://localhost:9117"
      ```
    - Substitua a chave e, se necessário, o host pelo os dados correspondentes do seu Jackett.
